@@ -18,8 +18,7 @@ in the papers.
 We continue to use and improve this model to understand how recurrent connections contribute to the complex dynamic responses of visual areas. 
 If you want to contribute to the development of this model, please fork the repository and send pull-requests with bug-fixes or additions.
 
-Bart Krekelberg, Rutgers University - Newark
-bart@vision.rutgers.edu
+Bart Krekelberg, Rutgers University - Newark, bart@vision.rutgers.edu
 
 
 

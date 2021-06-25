@@ -20,6 +20,8 @@ If you want to contribute to the development of this model, please fork the repo
 
 Bart Krekelberg, Rutgers University - Newark, bart@vision.rutgers.edu
 
+This repository is part of the Open Science Framework 'V1 Recurrent Network Model' project available here: https://osf.io/rfjpu/
+
 
 
 
